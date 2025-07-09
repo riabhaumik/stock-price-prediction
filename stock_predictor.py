@@ -143,7 +143,8 @@ def plot_results(data, y_test, y_pred, ticker):
     ax3.grid(True)
 
     plt.tight_layout(rect=[0, 0, 1, 0.9]) # Adjust layout to make room for suptitle
-    plt.show()
+    plt.savefig("screenshot.png")
+
 
 def main():
     """Main function to run the entire analysis pipeline."""
