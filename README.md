@@ -169,3 +169,14 @@ If you encounter any issues or have questions:
 
 **Happy Trading! 📈💰**
 
+ALTERNATIVE:
+
+# 📈 Stock Price Prediction App
+
+Try the live app here 👉 [Launch App](https://riabhaumik-stock-price-prediction.streamlit.app)
+
+A simple Streamlit application that lets users select a stock ticker (like AAPL or MSFT) and view:
+- 5 years of historical price data
+- Technical indicators (Moving Averages, RSI)
+- A machine learning model’s prediction for the next day's price
+
