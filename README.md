@@ -2,7 +2,7 @@
 
 A modern, interactive web application for stock analysis and price prediction using machine learning and technical indicators.
 
-## 🚀 Features
+##  Features
 
 - **Interactive Stock Analysis**: Enter any stock ticker and get instant analysis
 - **Technical Indicators**: Moving Averages (50-day & 200-day) and RSI
@@ -12,7 +12,7 @@ A modern, interactive web application for stock analysis and price prediction us
 - **Real-time Data**: Live stock data from Yahoo Finance
 - **Responsive Design**: Works on desktop and mobile devices
 
-## 🛠️ Installation
+## 🛠 Installation
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -56,7 +56,7 @@ A modern, interactive web application for stock analysis and price prediction us
 4. **Check Predictions**: View the predicted price for the next trading day
 5. **Historical Lookup**: Use the date picker to find prices at specific dates
 
-## 🎯 Technical Indicators
+##  Technical Indicators
 
 ### Moving Averages
 - **50-Day Moving Average**: Short-term trend indicator
@@ -69,7 +69,7 @@ A modern, interactive web application for stock analysis and price prediction us
 - **Oversold Level**: RSI < 30 (potential buy signal)
 - **Neutral Zone**: RSI between 30-70
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 The application uses a **Linear Regression** model trained on:
 - Historical price data (Open, High, Low, Close)
@@ -90,7 +90,7 @@ stock-price-predictor/
 └── venv/                 # Virtual environment (not in repo)
 ```
 
-## 🎨 UI Features
+##  UI Features
 
 - **Dark Mode**: Professional dark theme with gradient backgrounds
 - **3D Effects**: Box shadows and elevated components
@@ -114,7 +114,7 @@ The application works with any stock available on Yahoo Finance, including:
 - Always do your own research before making investment decisions
 - This tool should not be considered as financial advice
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -133,7 +133,7 @@ The application works with any stock available on Yahoo Finance, including:
    - Check browser console for errors
    - Try a different browser
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -145,11 +145,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Yahoo Finance**: For providing stock data
 - **Streamlit**: For the amazing web framework
