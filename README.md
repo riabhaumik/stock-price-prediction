@@ -2,9 +2,8 @@
 
 A modern, interactive web application for stock analysis and price prediction using machine learning and technical indicators.
 
-<<<<<<< HEAD
 ## 🚀 Features
-=======
+
 ##  Features
 
 
@@ -16,11 +15,8 @@ A modern, interactive web application for stock analysis and price prediction us
 - **Real-time Data**: Live stock data from Yahoo Finance
 - **Responsive Design**: Works on desktop and mobile devices
 
-<<<<<<< HEAD
-## 🛠️ Installation
-=======
-## 🛠 Installation
 
+## 🛠️ Installation
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -64,10 +60,8 @@ A modern, interactive web application for stock analysis and price prediction us
 4. **Check Predictions**: View the predicted price for the next trading day
 5. **Historical Lookup**: Use the date picker to find prices at specific dates
 
-<<<<<<< HEAD
+
 ## 🎯 Technical Indicators
-=======
-##  Technical Indicators
 
 
 ### Moving Averages
@@ -81,11 +75,9 @@ A modern, interactive web application for stock analysis and price prediction us
 - **Oversold Level**: RSI < 30 (potential buy signal)
 - **Neutral Zone**: RSI between 30-70
 
-<<<<<<< HEAD
-## 🤖 Machine Learning Model
-=======
+
 ##  Machine Learning Model
->>>>>>> ef03e6a99c493765dfef87f54fe86b73addc72bf
+
 
 The application uses a **Linear Regression** model trained on:
 - Historical price data (Open, High, Low, Close)
@@ -106,18 +98,6 @@ stock-price-predictor/
 └── venv/                 # Virtual environment (not in repo)
 ```
 
-<<<<<<< HEAD
-## 🎨 UI Features
-=======
-##  UI Features
-
-
-- **Dark Mode**: Professional dark theme with gradient backgrounds
-- **3D Effects**: Box shadows and elevated components
-- **Interactive Charts**: Zoom, pan, and hover functionality
-- **Responsive Layout**: Adapts to different screen sizes
-- **Real-time Updates**: Charts update automatically when parameters change
-
 ## 📈 Supported Stocks
 
 The application works with any stock available on Yahoo Finance, including:
@@ -134,12 +114,7 @@ The application works with any stock available on Yahoo Finance, including:
 - Always do your own research before making investment decisions
 - This tool should not be considered as financial advice
 
-<<<<<<< HEAD
-## 🐛 Troubleshooting
-=======
 ##  Troubleshooting
-
-
 ### Common Issues
 
 1. **"No data found for ticker"**
@@ -157,11 +132,7 @@ The application works with any stock available on Yahoo Finance, including:
    - Check browser console for errors
    - Try a different browser
 
-<<<<<<< HEAD
-## 🤝 Contributing
-=======
 ##  Contributing
-
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -173,7 +144,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<<<<<<< HEAD
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
