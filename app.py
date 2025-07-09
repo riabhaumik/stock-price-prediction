@@ -280,7 +280,3 @@ fig3 = go.Figure(data=[trace_actual, trace_pred], layout=layout3)
 st.plotly_chart(fig1, use_container_width=True)
 st.plotly_chart(fig2, use_container_width=True)
 st.plotly_chart(fig3, use_container_width=True)
-
-st.caption("""
-**Disclaimer:** This analysis is for educational purposes only and should not be considered financial advice.
-""") 
