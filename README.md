@@ -6,7 +6,7 @@ A modern, interactive web application for stock analysis and price prediction us
 ## 🚀 Features
 =======
 ##  Features
->>>>>>> ef03e6a99c493765dfef87f54fe86b73addc72bf
+
 
 - **Interactive Stock Analysis**: Enter any stock ticker and get instant analysis
 - **Technical Indicators**: Moving Averages (50-day & 200-day) and RSI
@@ -20,7 +20,7 @@ A modern, interactive web application for stock analysis and price prediction us
 ## 🛠️ Installation
 =======
 ## 🛠 Installation
->>>>>>> ef03e6a99c493765dfef87f54fe86b73addc72bf
+
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -68,7 +68,7 @@ A modern, interactive web application for stock analysis and price prediction us
 ## 🎯 Technical Indicators
 =======
 ##  Technical Indicators
->>>>>>> ef03e6a99c493765dfef87f54fe86b73addc72bf
+
 
 ### Moving Averages
 - **50-Day Moving Average**: Short-term trend indicator
@@ -110,7 +110,7 @@ stock-price-predictor/
 ## 🎨 UI Features
 =======
 ##  UI Features
->>>>>>> ef03e6a99c493765dfef87f54fe86b73addc72bf
+
 
 - **Dark Mode**: Professional dark theme with gradient backgrounds
 - **3D Effects**: Box shadows and elevated components
@@ -138,7 +138,7 @@ The application works with any stock available on Yahoo Finance, including:
 ## 🐛 Troubleshooting
 =======
 ##  Troubleshooting
->>>>>>> ef03e6a99c493765dfef87f54fe86b73addc72bf
+
 
 ### Common Issues
 
@@ -161,7 +161,7 @@ The application works with any stock available on Yahoo Finance, including:
 ## 🤝 Contributing
 =======
 ##  Contributing
->>>>>>> ef03e6a99c493765dfef87f54fe86b73addc72bf
+
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ##  Acknowledgments
->>>>>>> ef03e6a99c493765dfef87f54fe86b73addc72bf
+
 
 - **Yahoo Finance**: For providing stock data
 - **Streamlit**: For the amazing web framework
