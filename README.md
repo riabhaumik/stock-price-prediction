@@ -1,4 +1,4 @@
-# 📈 Stock Price Predictor & Technical Analyzer
+#  Stock Price Predictor & Technical Analyzer
 
 A modern, interactive web application for stock analysis and price prediction using machine learning and technical indicators.
 
@@ -20,7 +20,7 @@ A simple Streamlit application that lets users select a stock ticker (like AAPL 
 - **Responsive Design**: Works on desktop and mobile devices
 
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -56,7 +56,7 @@ A simple Streamlit application that lets users select a stock ticker (like AAPL 
 5. **Open your browser**
    Navigate to `http://localhost:8501`
 
-## 📊 How to Use
+##  How to Use
 
 1. **Enter Stock Ticker**: Type any valid stock symbol (e.g., MSFT, TSLA, GOOGL, NFLX)
 2. **Adjust Time Period**: Use the slider to select years of historical data (1-10 years)
@@ -65,7 +65,7 @@ A simple Streamlit application that lets users select a stock ticker (like AAPL 
 5. **Historical Lookup**: Use the date picker to find prices at specific dates
 
 
-## 🎯 Technical Indicators
+## Technical Indicators
 
 
 ### Moving Averages
@@ -90,7 +90,7 @@ The application uses a **Linear Regression** model trained on:
 
 **Model Performance**: Shows RMSE (Root Mean Square Error) on test data
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 stock-price-predictor/
