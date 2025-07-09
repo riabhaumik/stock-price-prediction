@@ -2,7 +2,7 @@
 
 A modern, interactive web application for stock analysis and price prediction using machine learning and technical indicators.
 
-Try the live app here 👉 [Launch App](https://riabhaumik-stock-price-prediction.streamlit.app)
+Try the live app here 👉 [Launch App](https://stock-price-prediction-qualfgzryttfuwfaz2cut7.streamlit.app/)
 
 A simple Streamlit application that lets users select a stock ticker (like AAPL or MSFT) and view:
 - 5 years of historical price data
