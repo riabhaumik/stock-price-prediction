@@ -2,10 +2,14 @@
 
 A modern, interactive web application for stock analysis and price prediction using machine learning and technical indicators.
 
-## 🚀 Features
+Try the live app here 👉 [Launch App](https://riabhaumik-stock-price-prediction.streamlit.app)
+
+A simple Streamlit application that lets users select a stock ticker (like AAPL or MSFT) and view:
+- 5 years of historical price data
+- Technical indicators (Moving Averages, RSI)
+- A machine learning model’s prediction for the next day's price
 
 ##  Features
-
 
 - **Interactive Stock Analysis**: Enter any stock ticker and get instant analysis
 - **Technical Indicators**: Moving Averages (50-day & 200-day) and RSI
@@ -169,14 +173,4 @@ If you encounter any issues or have questions:
 
 **Happy Trading! 📈💰**
 
-ALTERNATIVE:
-
-# 📈 Stock Price Prediction App
-
-Try the live app here 👉 [Launch App](https://riabhaumik-stock-price-prediction.streamlit.app)
-
-A simple Streamlit application that lets users select a stock ticker (like AAPL or MSFT) and view:
-- 5 years of historical price data
-- Technical indicators (Moving Averages, RSI)
-- A machine learning model’s prediction for the next day's price
 
